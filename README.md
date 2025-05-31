@@ -1,1 +1,1 @@
-# go-import-dependencies
+# go-cp-bundle
